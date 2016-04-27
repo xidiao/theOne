@@ -368,3 +368,5 @@ $config['proxy_ips'] = '';
 
 /* End of file config.php */
 /* Location: ./application/config/config.php */
+
+$config['base_url'] = 'http://www.my_theone.com/';
